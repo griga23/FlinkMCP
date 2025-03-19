@@ -34,3 +34,10 @@ Requirements
   }
 }
 ```
+
+Examples:
+
+![image](https://github.com/user-attachments/assets/90f8f92b-35f6-4b5f-a815-94f0877c45fb)
+
+![image](https://github.com/user-attachments/assets/478fa786-7079-41fb-b4f1-b94b099c8a62)
+
