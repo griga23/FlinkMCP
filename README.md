@@ -1,3 +1,3 @@
 FlinkMPC
 
-Pilot of AI Agent for Confluent Cloud Flink 
+AI Agent for Confluent Cloud Flink 
